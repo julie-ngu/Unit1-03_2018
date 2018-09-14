@@ -6,7 +6,6 @@
  * This program calculates whatever mass (kg) the user inputs to energy (j)
  *
  ****************************************************************************/
-package EnergyConverter;
 import java.util.Scanner;
 
 public class EnergyConverter {
