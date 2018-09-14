@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class EnergyConverter {
 	public static void main(String[] args) {
 		Scanner userInput = new Scanner(System.in);
-		System.out.println("Enter mass of object (kg): ");
+		System.out.print("Enter mass of object (kg): ");
 		
 		double LIGHTSPEED = 299800000;
 		double mass = userInput.nextDouble();
